@@ -12,7 +12,6 @@ import android.view.GestureDetector;
 import android.view.MotionEvent;
 import android.widget.ImageView;
 
-
 /**
  * Created by Administrator on 2017/3/23.
  */
